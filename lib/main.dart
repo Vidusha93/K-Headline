@@ -3,6 +3,7 @@ import 'dart:async';
 import 'dart:convert';
 import 'package:http/http.dart' as http;
 import 'package:flutter_spinkit/flutter_spinkit.dart';
+import 'package:news_app/api_key.dart';
 import 'package:news_app/web_view.dart';
 
 void main() => runApp(MyApp());
@@ -29,7 +30,7 @@ class MyHomePage extends StatefulWidget {
 
 class _MyHomePageState extends State<MyHomePage> {
 
-  final String url = 'https://newsapi.org/v2/top-headlines?country=kr&apiKey=e12b2ee6e72c4abbb34d3462f8f00120';
+  final String url = 'https://newsapi.org/v2/top-headlines?country=kr&apiKey=' + api;
   List data;
   bool isSwitched = false;
 
