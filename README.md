@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="screenshots/logo.png" alt="Logo" width="100">
+    <img src="screenshots/logo.png" alt="Logo" width="300">
   </a>
 
   <h3 align="center">K-Headline</h3>
@@ -8,11 +8,11 @@
   <p align="center">
     This is a simpale Flutter App to read the South Korean News Headlines. It's also allow user to read the full artical by using flutter webview.
     <br />
-    <img alt="Awesome Flutter" src="https://img.shields.io/badge/Awesome-Flutter-blue.svg?longCache=true&style=flat-square" />
+    <img alt="Awesome Flutter" src="https://img.shields.io/badge/Awesome-Flutter-blue.svg?longCache=true&style=flat" />
     ·
-    <img alt="Awesome Flutter" src="https://img.shields.io/badge/IOS-Flutter-blue.svg?longCache=true&style=flat-square" />
+    <img alt="Awesome Flutter" src="https://img.shields.io/badge/IOS-Flutter-blue.svg?longCache=true&style=flat" />
     ·
-    <img alt="Awesome Flutter" src="https://img.shields.io/badge/ANDROID-Flutter-blue.svg?longCache=true&style=flat-square" />
+    <img alt="Awesome Flutter" src="https://img.shields.io/badge/ANDROID-Flutter-blue.svg?longCache=true&style=flat" />
   </p>
 </p>
 
@@ -38,7 +38,7 @@ flutter run
 - :white_check_mark: Dark and Light themes
 - :white_check_mark: Upto 30 News Headlines at ones
 
-<img src="screenshots/ios_light.png" alt="Logo" width="100">     <img src="screenshots/ios_dark.png" alt="Logo" width="100">
+<img src="screenshots/ios_light.png" alt="Logo" width="200">     <img src="screenshots/ios_dark.png" alt="Logo" width="200">
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
